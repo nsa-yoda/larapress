@@ -1,7 +1,7 @@
 larapress
 =========
 
-LaraPress is a free and open source blogging tool and a CMS based on Laravel 4.
+LaraPress is a free and open source blogging tool and a CMS based on Laravel 5.
 
 Setup
 =====
